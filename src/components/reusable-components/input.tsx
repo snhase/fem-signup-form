@@ -64,6 +64,7 @@ export function Input({  errors, label, touched, type, values, setErrors, setTou
         errors[id]?
         <div
           className="italic text-right text-xs text-[hsla(0,100%,74%,1)]"
+          role="error"
         >
           {errors[id]}
         </div>

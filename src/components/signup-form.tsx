@@ -38,7 +38,10 @@ export const SignupForm = ( { setSignup } : Props ) => {
 
     return (
         <Card>
-            <form onSubmit={handleOnSubmit}>
+            <form 
+            onSubmit={handleOnSubmit}
+            role="form"
+            >
                 <Input 
                     label="First Name"
                     values={values}
