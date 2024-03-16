@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fem-signup-form/static/css/main.06610805.css",
+    "main.js": "/fem-signup-form/static/js/main.783e4f4e.js",
+    "static/media/Poppins-Regular.ttf": "/fem-signup-form/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/bg-intro-desktop.png": "/fem-signup-form/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "index.html": "/fem-signup-form/index.html",
+    "static/media/icon-error.svg": "/fem-signup-form/static/media/icon-error.b72f792e9c900128f5c8.svg",
+    "main.06610805.css.map": "/fem-signup-form/static/css/main.06610805.css.map",
+    "main.783e4f4e.js.map": "/fem-signup-form/static/js/main.783e4f4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06610805.css",
+    "static/js/main.783e4f4e.js"
+  ]
+}
